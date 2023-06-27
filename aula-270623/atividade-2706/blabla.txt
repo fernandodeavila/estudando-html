@@ -1,0 +1,17 @@
+- nome completo da pessoa* (max. 200 caracteres);
+- email *
+- senha *
+- uf *
+- cidade *
+- rua *
+- numero *
+- cep *
+- bio *
+- área de atuação (fullstack, cloud, ambos)
+- botão de cadastrar e botão de limpar
+--------------------------------------------------------------------------------
+página de login:
+- email *
+- senha *
+- lembrar de mim *
+- botão de logar e um link para cadastr
